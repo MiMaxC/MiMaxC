@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @MiMaxC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MiMaxC/MiMaxC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Data Analysis & Science, Data Manipulation, Validation and Visualization.
+- 🌱 I’m currently working on projects in Python (Jupyter), Excel and MySQL
+- 💞️ Open to collaboration and to feedback, the only way to improve is by peer review.
